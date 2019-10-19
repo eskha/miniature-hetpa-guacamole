@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Miniature Hetpa Guacamole",
   "main": "index.html",
+  "template": "Vanilla",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
