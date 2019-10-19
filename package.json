@@ -2,11 +2,10 @@
   "name": "miniature-hetpa-guacamole",
   "version": "0.0.1",
   "description": "Miniature Hetpa Guacamole",
-  "main": "index.pug",
   "template": "Vanilla",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "start": "parcel src/index.pug --open",
+    "build": "parcel build src/index.pug index.html"
   },
   "dependencies": {},
   "devDependencies": {
