@@ -2,7 +2,7 @@
   "name": "miniature-hetpa-guacamole",
   "version": "0.0.1",
   "description": "Miniature Hetpa Guacamole",
-  "main": "index.html",
+  "main": "index.pug",
   "template": "Vanilla",
   "scripts": {
     "start": "parcel index.html --open",
